@@ -25,5 +25,14 @@ Configure the pull request:
 
 4. The autograder runs automatically — check the PR for results
 5. Your TA reviews and merges when everything passes
+6. ## About
 
-6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+[One paragraph: who you are and what this repository is for.]
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/yamenayman-prework.git
+cd yamenayman-prework
+
+7. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
